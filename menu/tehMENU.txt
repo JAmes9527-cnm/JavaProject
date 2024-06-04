@@ -1,0 +1,3 @@
+T01,Teh,12,teh
+T02,Kopi,2,teh
+T03,Milo,3,teh

@@ -1,0 +1,2 @@
+J01,Egg fried rice,8.0,james,2
+J02,Shrimp fried rice,9.0,james,3
